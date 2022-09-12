@@ -1,2 +1,2 @@
-# Oto-o-22
-Trabajos optativa redes neuronales
+# Otoño 2022
+Trabajos optativa: Redes Neuronales
